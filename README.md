@@ -1,2 +1,2 @@
-# ChongLuaDao-Adguard
-ChongLuaDao blocklist for Adguard 
+# ChongLuaDao-AdGuard
+ChongLuaDao blocklist for AdGsuard 
