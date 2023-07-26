@@ -28,7 +28,9 @@ def generate_blocklist(output_file):
         file.write(f"\n")
         for cld in cld_output:
             url = cld["url"].replace("http://", "").replace("https://", "").replace("/", "")
-            file.write(f"||.{url}^\n")
+            if url.startswith("*."):
+                url = url[2:]
+            file.write(f"||{url}$all\n")
     print(f"OK")
 
 output_file = "chongluadao.txt"

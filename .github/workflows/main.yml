@@ -24,7 +24,7 @@ jobs:
       - name: Update blacklist
         run: |
           git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.name "Hung Nguyen"
           git add chongluadao.txt
           git commit -m "Update chongluadao.txt"
           git push
