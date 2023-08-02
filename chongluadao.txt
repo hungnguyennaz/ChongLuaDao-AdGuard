@@ -1,5 +1,5 @@
 ! Title: ChongLuaDao Blocklist
-! Updated: 07/28/2023, 01:13:14
+! Updated: 08/02/2023, 01:12:23
 ! Expires: 1 day
 ! Homepage: https://chongluadao.vn
 ! Author: 7onez, Hung Nguyen
@@ -16996,3 +16996,21 @@
 ||dichvucongbaohiemxahoi.com$all
 ||hdsaisonvay.com$all
 ||hdssfn.online$all
+||nang-cap-khach-hang.com$all
+||vp-khach-hang-ca-nhan-the-visa.com.vn$all
+||nang-cap-khach-hang.com$all
+||nang-cap-khach-hang.com$all
+||vp-khach-hang-ca-nhan-the-visa.vp-khach-hang-ca-nhan-the-visa.com.vn$all
+||nang-cap-khach-hang.com$all
+||khach-hang-ca-nhan-techcombank-tin-dung.com$all
+||nang-cap-khach-hang.com$all
+||vp-khach-hang-ca-nhan-the-visa.com$all
+||vp-khach-hang-the-visa.com.vn$all
+||nang-cap-khach-hang.com$all
+||dang-ky-tin-dung-mbbank.com$all
+||dang-ky-tin-dung-techcombank.com$all
+||tin-dung-ngan-hang-vpbank.com$all
+||khach-hang-ca-nhan.site$all
+||rut-tien-the-tin-dung.online$all
+||dv-the-tin-dung.online$all
+||the-tin-dung-master-card.com$all
