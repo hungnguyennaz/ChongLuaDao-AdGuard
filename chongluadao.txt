@@ -1,5 +1,5 @@
 ! Title: ChongLuaDao Blocklist
-! Updated: 09/06/2023, 01:04:02
+! Updated: 09/07/2023, 01:04:05
 ! Expires: 1 day
 ! Homepage: https://chongluadao.vn
 ! Author: 7onez, Hung Nguyen
@@ -17014,3 +17014,5 @@
 ||rut-tien-the-tin-dung.online$all
 ||dv-the-tin-dung.online$all
 ||the-tin-dung-master-card.com$all
+||vingroupglobal.com$all
+||vingroupinternational.vn$all
