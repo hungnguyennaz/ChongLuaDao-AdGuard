@@ -1,5 +1,5 @@
 ! Title: ChongLuaDao Blocklist
-! Updated: 02/21/2024, 01:04:59
+! Updated: 02/22/2024, 01:03:54
 ! Expires: 1 day
 ! Homepage: https://chongluadao.vn
 ! Author: 7onez, Hung Nguyen
